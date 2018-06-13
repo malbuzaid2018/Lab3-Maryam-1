@@ -53,3 +53,22 @@ Please submit the following deliverables:
 
 
 *40 points TOTAL*
+
+# Listing of questions embedded in the code
+
+TestIterator and TestList Classes
+- setUp methods
+It does not make any difference if list is a new ArrayList or a new LinkedList.
+
+TestList Class
+- testRemoveObject method
+list.remove(5) removes the value at index 5 and moves the values to the right of 
+it left 1 index. This decreases the total list size by 1.
+list.remove(Integer.valueOf(5)) removes the entry in the list that has a value 
+of 5. Values to the right of this entry are moved left 1 index.
+
+# Link to Google Spreadsheet for arraylist and linked comparison
+
+https://docs.google.com/spreadsheets/d/1cMoOLd-TjWxw3DsshBoT4s4CtSpXfUL-ztVXhQ52Zdw/edit?usp=sharing
+
+
